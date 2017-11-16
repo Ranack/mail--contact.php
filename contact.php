@@ -1,7 +1,7 @@
     <?php
     
     // destinataire est votre adresse mail. Pour envoyer à plusieurs à la fois, séparez-les par une virgule
-    $destinataire = 'kevin.roualec@hotmail.fr';
+    $destinataire = 'mail@contact.fr';
      
     // copie ? (envoie une copie au visiteur)
     $copie = 'oui'; // 'oui' ou 'non'
